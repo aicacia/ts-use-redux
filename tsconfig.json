@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "target": "ES2015",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "declaration": true,
+    "outDir": "lib",
+    "strict": true,
+    "downlevelIteration": true,
+    "lib": ["esnext", "DOM"]
+  },
+  "include": ["src"],
+  "exclude": ["src/**/*.test.*"]
+}

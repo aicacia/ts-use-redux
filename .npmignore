@@ -1,0 +1,15 @@
+.cache
+.github
+.nyc_output
+.vscode
+coverage
+dist
+docs
+src
+node_modules
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+npm-debug.log
+tsconfig.json

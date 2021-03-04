@@ -1,0 +1,9 @@
+.cache/
+.github/
+.nyc_output/
+.vscode/
+coverage/
+dist/
+docs/
+lib/
+node_modules/
